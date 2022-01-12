@@ -1,3 +1,5 @@
+# Without Using String Function
+
 # Solution:
 
 #include <stdio.h>
