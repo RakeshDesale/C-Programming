@@ -1,4 +1,4 @@
-# Without using Function:
+# Without using Function
 
 # Solution:
 
