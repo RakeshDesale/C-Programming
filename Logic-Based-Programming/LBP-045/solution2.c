@@ -1,0 +1,4 @@
+# Without Using Function
+
+# Solution:
+
