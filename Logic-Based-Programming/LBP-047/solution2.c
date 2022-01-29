@@ -10,7 +10,10 @@ int oddEven(int);
 int main() {
     int n;
     scanf("%d",&n);
-    printf(oddEven(n)?"Evenish":"Oddish");
+    if(n>0)
+        printf(oddEven(n)?"Evenish":"Oddish");
+    else
+        exit(0);
     return 0;
 }
 
