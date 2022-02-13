@@ -7,9 +7,17 @@
 #include <math.h>
 #include <stdlib.h>
 
+void evenLengthWord(char []);
+
 int main() {
-    char str[50],*p;
+    char str[50];
     scanf("%[^\n]s",str);
+    evenLengthWord(str);
+    return 0;
+}
+
+void evenLengthWord(char str[]){
+    char *p;
     p=strtok(str," ");
     while(p!=NULL){
         if(strlen(p)%2==0){
@@ -17,5 +25,4 @@ int main() {
         }
         p=strtok(NULL," ");
     }
-    return 0;
 }
