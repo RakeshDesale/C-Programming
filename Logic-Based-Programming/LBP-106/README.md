@@ -1,0 +1,43 @@
+# Problem Statement:
+
+Implement a program to read an array elements and print sum of all palindrome numbers in array.
+
+### Input Format
+
+size of the array and array elements
+
+### Constraints
+
+size<100
+
+### Output Format
+
+sum of all palindrome numbers
+
+### Sample Input 0
+```
+5
+1 2 3 4 5
+```
+### Sample Output 0
+```
+15
+```
+### Sample Input 1
+```
+3
+121 122 123
+```
+### Sample Output 1
+```
+121
+```
+### Sample Input 2
+```
+3
+111 222 333
+```
+### Sample Output 2
+```
+666
+```
