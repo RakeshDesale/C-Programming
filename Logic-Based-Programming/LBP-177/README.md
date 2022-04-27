@@ -1,0 +1,40 @@
+# Problem Statement:
+
+A spy wants to send some secret information to the government. As the data is very important, he encrypts the message by encoding by adding some extra characters. The original message has only upper case letters and numbers, while the extra characters are madeup of lowercase letters and special characters. Can you help the receiver in designing a program that accepts the message and returns the secret information.
+
+### Input Format
+
+a string from the user
+
+### Constraints
+
+no
+
+### Output Format
+
+original message
+
+### Sample Input 0
+```
+Wel1c%OmE
+```
+### Sample Output 0
+```
+W1OE
+```
+### Sample Input 1
+```
+pRak123aSh
+```
+### Sample Output 1
+```
+R123S
+```
+### Sample Input 2
+```
+dEmO
+```
+### Sample Output 2
+```
+EO
+```
