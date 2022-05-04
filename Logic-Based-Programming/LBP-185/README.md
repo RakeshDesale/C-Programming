@@ -1,6 +1,6 @@
 # Problem Statement:
 
-There are 3 friends named Ronaldo,Messi,Rooney who worked at a compnay. Given their monthly salaries and monthly expendictures, returns the highest saving amoung them.
+There are 3 friends named Ronaldo,Messi,Rooney who worked at a compnay. Given their monthly salaries and monthly expendictures, returns the highest saving among them.
 
 ### Input Format
 
