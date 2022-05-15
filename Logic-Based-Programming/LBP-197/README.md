@@ -1,0 +1,35 @@
+# Problem Statement:
+
+Two strings are said to be same if they are of the same length and have the same character at each index. Backspacing in a string removes the previous character in the string.<br>
+Given two strings containing lowercase english letters and the character '#' which represents a backspace key. Determine if the two final strings are equal or not. Return 1 if they are equal else 0.
+
+### Input Format
+
+two strings s1 and s2
+
+### Constraints
+
+no
+
+### Output Format
+
+1 or 0
+
+### Sample Input 0
+```
+axx#bb#c
+axbd#c#c
+```
+### Sample Output 0
+```
+1
+```
+### Sample Input 1
+```
+ayx#cb#c
+axbd#c#c
+```
+### Sample Output 1
+```
+0
+```
