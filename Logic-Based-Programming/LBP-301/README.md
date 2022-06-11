@@ -1,0 +1,49 @@
+# Problem Statement:
+
+Given String/Sentence need to be reversed and the vowels need to be replaced with numbers from 1-9. In the reversed string replaced number should be appears in descending order from left to right.<br>
+If there are more than 9 vowels, numbering should restart from 1.
+
+### Input Format
+
+a string from the user
+
+### Constraints
+
+non-empty string
+
+### Output Format
+
+updated string
+
+### Sample Input 0
+```
+welcome
+```
+### Sample Output 0
+```
+w1lc2m3
+```
+### Sample Input 1
+```
+prakash
+```
+### Sample Output 1
+```
+pr1k2sh
+```
+### Sample Input 2
+```
+demo
+```
+### Sample Output 2
+```
+d1m2
+```
+### Sample Input 3
+```
+welcome to python programming
+```
+### Sample Output 3
+```
+w1lc2m3 t4 pyth5n pr6gr7mm8ng
+```
